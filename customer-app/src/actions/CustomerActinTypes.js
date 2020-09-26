@@ -1,0 +1,9 @@
+
+  const ActionTypes = {
+    GET_CUSTOMERS : 'GET_ALL_CUSTOMERS',
+    EDIT_CUSTOMER : 'EDIT_CUSTOMER',
+    SET_CUSTOMERS : 'SET_CUSTOMERS',
+    UPDATE_CUSTOMER : 'UPDATE_CUSTOMER'
+}
+
+export default ActionTypes;
